@@ -1,2 +1,9 @@
-# MicroCaml-an-Ocaml-like-mini-programming-langage
-MicroCaml: an Ocaml-like mini programming langage, written in Ocaml using Dune
+# MicroCaml-and-Microtop-an-Ocaml-like-mini-programming-langage
+
+This project involves the implementation of MicroCaml, a variant of OCaml with a
+reduced feature set and dynamic typing. Unlike OCaml, MicroCaml lacks compile-time
+type checking, similar to scripting languages like Python and Ruby, where type validation
+occurs during runtime. 
+
+Additionally, the project includes the development of mutop
+(Microtop), a version of utop tailored for MicroCaml
