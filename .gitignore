@@ -1,0 +1,6 @@
+# ocamlbuild working directory
+_build/
+_opam/
+
+# macos moment
+.DS_Store
